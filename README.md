@@ -1,4 +1,5 @@
 Event Ticket Booking System
+
 A Java-based Event Ticket Booking System developed in NetBeans IDE that enables users to browse events, reserve tickets, and manage bookings through an intuitive interface.
 
 Technical Features
